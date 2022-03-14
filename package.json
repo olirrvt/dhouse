@@ -1,0 +1,11 @@
+{
+  "name": "imcdh",
+  "version": "1.0.0",
+  "description": "Calcular o IMC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Oliveira",
+  "license": "ISC"
+}
